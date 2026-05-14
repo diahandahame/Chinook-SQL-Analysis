@@ -35,7 +35,7 @@ organized by theme, using **Microsoft SQL Server**.
 - Sales analysis by year
 - Line items per invoice
 
-### 🎵 Theme 3: Tracks & Artists
+### 🎵 Theme 3: Tracks and Artists
 > Exploring the music catalog and purchasing trends
 - Track details per invoice
 - Tracks and artists per invoice
