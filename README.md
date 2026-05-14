@@ -1,6 +1,6 @@
 # Chinook-SQL-Analysis
 SQL analysis of a digital music store uncovering sales trends, customer insights, and agent performance through 26 business driven queries
-# 🎵 Chinook Music Store — SQL Analysis
+# 🎵 Chinook Music Store:  SQL Analysis
 
 ## 📌 Overview
 This project is a business-driven SQL analysis of the **Chinook database**,
