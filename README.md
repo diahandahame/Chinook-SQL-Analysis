@@ -82,4 +82,5 @@ Exercises adapted from :
 ---
 ## 👤 Author
 **Handahamé DIA** - Quantitative Economist | Sales and Data Analyst
+
 [linkedin.com/in/handahame-dia/](#) | [github.com/diahandahame](#)
