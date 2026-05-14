@@ -72,7 +72,7 @@ organized by theme, using **Microsoft SQL Server**.
 ---
 ## 🗄️ Database Schema
 
-![Chinook Schema]()
+![Chinook Schema](chinook_schema.png)
 
 ---
 ## 📚 Source
