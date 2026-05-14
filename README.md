@@ -80,7 +80,8 @@ Exercises adapted from :
 [GitHub - LucasMcL/15-sql_queries_02-chinook](https://github.com/LucasMcL/15-sql_queries_02-chinook)
 
 ---
-## 👤 Author
-**Handahamé DIA** - Quantitative Economist | Sales and Data Analyst
+## ## 👤 Author
+**Handahamé DIA** — Quantitative Economist | Sales and Data Analyst
 
-[linkedin.com/in/handahame-dia/](#) | [github.com/diahandahame](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/handahame-dia/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/diahandahame)
